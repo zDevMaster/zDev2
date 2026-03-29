@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WebApp/WebApp.csproj" />
+  <Project Path="WebRoot/WebRoot.csproj" />
+  <Project Path="zDev.Base/zDev.Base.csproj" />
+</Solution>
